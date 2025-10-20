@@ -101,21 +101,21 @@ npx expo start
 
 ### 1. Tela de Login
 
-![Login](./docs/teladelogin.png)
+![Login](https://github.com/GuiMassucatto/escolamobile/blob/32f5eabcc2e892538bf46d30868f9c1d211ab2fa/escolaavaliacaomobile/docs/tela_de_login.png)
 
 ### 2. Tela de Dashboard
 
-![Dashboard](./docs/dashboard.png)
+![Dashboard](https://github.com/GuiMassucatto/escolamobile/blob/32f5eabcc2e892538bf46d30868f9c1d211ab2fa/escolaavaliacaomobile/docs/dashboard.png)
 
 ### 3. Tela de Cadastrar Turma
 
-![Cadastrar Turma](./docs/CadastrarTurma.png)
+![Cadastrar Turma](https://github.com/GuiMassucatto/escolamobile/blob/32f5eabcc2e892538bf46d30868f9c1d211ab2fa/escolaavaliacaomobile/docs/CadastrarTurma.png)
 
 ### 4. Tela de Atividades
 
-![Atividades](./docs/atividades.png)
+![Atividades](https://github.com/GuiMassucatto/escolamobile/blob/32f5eabcc2e892538bf46d30868f9c1d211ab2fa/escolaavaliacaomobile/docs/atividades.png)
 
 ### 5. Tela de Cadastrar Atividade
 
-![Cadastrar Atividade](./docs/CadastrarAtividade.png)
+![Cadastrar Atividade](https://github.com/GuiMassucatto/escolamobile/blob/32f5eabcc2e892538bf46d30868f9c1d211ab2fa/escolaavaliacaomobile/docs/CadastrarAtividade.png)
 
